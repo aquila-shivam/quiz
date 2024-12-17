@@ -203,7 +203,7 @@ public CommandLineRunner seedQuestions(QuestionRepository questionRepository) {
 ---
 
 ## Contact
-If you encounter any issues or have suggestions, feel free to contact the project maintainer.
+If you encounter any issues or have suggestions, feel free to contact me.
 
 ---
 
